@@ -100,9 +100,7 @@
     flex-direction: column;
     height: auto;
   }
-  .div > * {
-    flex-basis: 100%;
-  }
+
   .h1 {
     font-size: 35px;
   }
